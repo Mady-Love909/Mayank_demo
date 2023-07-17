@@ -1,1 +1,3 @@
 Hi mayank
+
+git checkout -- (File_name) --> For Match the file to last commit
