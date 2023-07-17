@@ -1,3 +1,5 @@
 Hi mayank
 
 git checkout -- (File_name) --> For Match the file to last commit
+
+git checkout -f --> For Matching the all files to last commit
